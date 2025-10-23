@@ -55,9 +55,9 @@ const Hero = () => {
             Hi, I'm Chandana, a developer with a passion for code.
           </p>
           <Button
+              text="See my Work"
             className="md:w-80 md:h-16 w-60 h-12"
-            id="button"
-            text="See my Work"
+            id="counter"
           />
         </div>
       </header>
